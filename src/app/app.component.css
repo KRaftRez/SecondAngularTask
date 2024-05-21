@@ -1,0 +1,52 @@
+ngb-rating{
+    color: black;
+    font-size: 40px;
+}
+.book-title{
+    display: flex;
+   padding: 20px;
+}
+.name{
+    font-size: 30px;
+    margin-right: 200px;
+}
+
+.changedesc{
+    font-size: 30px;
+    
+}
+.book-desc{
+    display: flex;
+   padding: 20px;
+}
+
+.changeauthor{
+    font-size: 20px;
+    
+}
+.book-author{
+display: flex;
+   padding: 20px;
+}
+
+
+.changename{
+    font-size: 20px;
+    
+}
+
+.book1{
+    background: rgb(65, 179, 207);
+}
+.book2{
+    background: rgb(196, 252, 65);
+}
+.book3{
+    background: rgb(236, 71, 228);
+}
+.book4{
+    background: rgb(52, 210, 231);
+}
+.book5{
+    background: rgb(229, 255, 0);
+}
